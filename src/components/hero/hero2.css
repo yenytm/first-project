@@ -1,0 +1,25 @@
+.heroTwo {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+
+}
+.topHero2 {
+    display: flex;
+    justify-content: center;
+    
+}
+.bottomHero2{
+    display: flex;
+    justify-content: space-around;
+}
+.bookRecs{
+    width: 150px;
+    height: 200px;
+    padding: 15px;
+}
+.bookItemRec{
+    display: flex;
+    align-items: center;
+}
+

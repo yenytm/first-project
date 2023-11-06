@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(34, 33, 33);
+    padding: 20px;
+}
+
+
+.midBody{
+    height: max-content;
+    background-color: rgb(7, 7, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 25px;
+
+}
+.monthlyBook {
+width: 400px;
+height: 500px;
+fill: black;
+margin-left: 30px;
+cursor: pointer;
+}
+
+
+
+.leftBody{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: column;
+    text-indent: 5px;
+}
